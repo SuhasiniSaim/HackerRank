@@ -29,7 +29,7 @@
 # 1
 # 1.33333333333
 
-
+#Output:
 a = float(input())
 b = float(input())
 print(a//b)
